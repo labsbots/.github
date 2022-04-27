@@ -2,8 +2,8 @@
 
 Hey everyone,
 
-we are working on cyber security analyst project application for departement itelegent, developers, product + marketing folks and all around creative people. Give it a shot for your next standup. collaborate on top of your favorite tools on the desktop in the floating mode, 
-listen to music and have fun while meeting with your team.
+Robotic Laboratory is a cybersecurity consultancy that focuses on penetration testing, vulnerability and digital forensics. We are consistent in providing innovative and high-quality information security, cybersecurity services and solutions to suit the evolving cyberthreat landscape. We provide our services to clients in Indonesia in particular, and the world in general. The various clients we work with range from the private sector such as finance and banking, to sectors such as the military, government agencies and the police, and to the energy sector such as oil and gas, and mining.
+
 
 Visit [Labsbots.com](https://www.labsbots.com/)
 
