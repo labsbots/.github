@@ -7,5 +7,5 @@ Robotic Laboratory is a cybersecurity consultancy that focuses on penetration te
 
 Visit [Labsbots.com](https://www.labsbots.com/)
 
-## Member of Robotic Laboratory
+## Project of Robotic Laboratory
 ![Repositories](https://pbs.twimg.com/profile_banners/1511050153712828419/1649454193/1500x500)
